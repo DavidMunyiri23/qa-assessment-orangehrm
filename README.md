@@ -22,9 +22,7 @@ qa-assessment-orangehrm/
 ```
 
 ## 🎯 Demo Video
-🎥 [Watch on Loom](https://loom.com/share/your-video-link)
-
-## ⚙️ Setup
+🎥 Watch on this google drive link:https://drive.google.com/file/d/18pZKjyNUIiOwrpYaku12Es4yx15IBEek/view?usp=sharing
 - Tested on **Windows 10 + Chrome**
 - Automation via **Cypress**
 - API testing via **Postman**
